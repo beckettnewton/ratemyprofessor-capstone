@@ -59,10 +59,10 @@ Key objectives:
 - **Validation:** Train/test split, R², RMSE, AUROC, precision/recall/F1
 
 ## Repository Contents
-- `code/` – Python scripts for cleaning, analysis, and modeling.
-- `data/` – Input datasets (if shareable) or data schema.
-- `report.pdf` – Full written report (Overleaf, LaTeX).
-- `README.md` – Project summary (this file).
+- `captstone.py` – Python scripts for cleaning, analysis, and modeling.
+- `rmpCapstoneNum/Qual.csv` – Input datasets.
+- `RateMyProfessor_Report.pdf` – Full written report.
+- `README.md` – Project summary.
 
 ## How to Run
 1. Clone this repository:
